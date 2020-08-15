@@ -1,1 +1,5 @@
+---
+sitemap: false
+---
+
 google-site-verification: google0ec6414ebe0e1fe1.html
