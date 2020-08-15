@@ -25,7 +25,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Codeigniter, Bootstrap and Tailwind. A GoLearner, NodeJS enthusiast and PHP addict.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rizkiherdaid.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-publisher: "Rizki Herda"
 twitter_username: RizkiHerdaID
 github_username: RizkiHerdaID
 
@@ -33,7 +32,7 @@ github_username: RizkiHerdaID
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-news-sitemap
+  - jekyll-sitemap
 
 # Exclude from processing.
 # The following items will not be processed, by default.
